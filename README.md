@@ -1,5 +1,5 @@
 
-It's a recipe project that I seamlessly integrated REST API calls using React.js,Redux and Axios, providing fast and efficient data exchange. 
+It's a recipes project that I seamlessly integrated REST API calls using React.js,Redux and Axios, providing fast and efficient data exchange. 
 
 You can watch the video of the project from the link below.
 
