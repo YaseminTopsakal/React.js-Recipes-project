@@ -1,8 +1,6 @@
 
 It's a recipes project that I seamlessly integrated REST API calls using React.js,Redux and Axios, providing fast and efficient data exchange. 
 
-You can watch the video of the project from the link below.
-
 https://github.com/YaseminTopsakal/React.js-Recipes-project/assets/121159128/ca0c240b-2ea1-4c8a-8320-74e1334fa11a
 
 
